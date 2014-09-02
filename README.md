@@ -1,4 +1,4 @@
 LatinNounDeclension
 ===================
 
-Tests your latin ability in noun declension.
+LatinNounDeclension helps you test your ability in latin noun declension.
